@@ -10,9 +10,9 @@ return (
             <div className="left-footer">
                 <h1 className='twise'>Follow</h1>
                 <div className="nomal cor">
-                    <a href="#" className='orage'>Instagram</a>
+                    <a href="https://bekzodjonportfolio.netlify.app" className='orage'>Instagram</a>
                     <span className='orage orasas'>|</span>
-                    <a href="#" className='orage'>Telegram</a>
+                    <a href="https://bekzodjonportfolio.netlify.app" className='orage'>Telegram</a>
                 </div>
             </div>
 
@@ -23,7 +23,7 @@ return (
             <div className="left-footer right-footer">
                 <h1 className='twise'>Aloqa</h1>
                 <div className="nomal">
-                    <a href="#" className='orage'>Email</a>
+                    <a href="https://bekzodjonportfolio.netlify.app" className='orage'>Email</a>
                     <span className='orage orasas'>|</span>
                     <a href="tel: (91) 698-0700" className='orage'>Telafon</a>
                 </div>

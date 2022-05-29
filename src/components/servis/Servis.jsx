@@ -49,7 +49,7 @@ return (
                     <div className="all-bottom-ser" key={item.id}>
                         <h1 className='h1-nomi'>{item.nomi}</h1>
                         <p className='p-descrp'>{item.description}</p>
-                        <a href="#" className='buttoms'>{item.link}</a>
+                        <a href="https://bekzodjonportfolio.netlify.app" className='buttoms'>{item.link}</a>
                     </div>
             ))
             }
