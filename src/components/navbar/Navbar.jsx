@@ -8,19 +8,19 @@ const Navbar = () => {
         <div className="container navbar-box">
           <div className="started"></div>
             <div className="nav-center-sec">
-              <a href="#" className='links1'>Servislar</a>
-              <a href="#" className='link'>Name Company</a>
-              <a href="#" className='links1'>Portfolio</a>
+              <a href="https://bekzodjonportfolio.netlify.app" className='links1'>Servislar</a>
+              <a href="https://bekzodjonportfolio.netlify.app" className='link'>Name Company</a>
+              <a href="https://bekzodjonportfolio.netlify.app" className='links1'>Portfolio</a>
             </div>
             <div className="nav-right-sec">
-              <a href="#">
+              <a href="https://bekzodjonportfolio.netlify.app">
                 <img src={internet} alt="" />
               </a>
-              <a href="#">
+              <a href="https://bekzodjonportfolio.netlify.app">
                 <img src={cart} alt="" />
               </a>
-              <a href="#" className='enter'>Kirish</a>
-              <a href="#" className='log'>Royhatdan otish</a>
+              <a href="https://bekzodjonportfolio.netlify.app" className='enter'>Kirish</a>
+              <a href="https://bekzodjonportfolio.netlify.app" className='log'>Royhatdan otish</a>
             </div>
         </div>
     </div>

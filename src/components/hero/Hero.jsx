@@ -1,5 +1,4 @@
 import './hero.css'
-import heroback from '../../images/hero-img/backround-hero.png'
 
 const Hero = () => {
   return (
