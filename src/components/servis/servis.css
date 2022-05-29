@@ -1,0 +1,66 @@
+.servis{
+    width: 100%;
+    background: var(--wht2);
+    height: 550px;
+}
+.left-top-servise{
+    position: relative;
+}
+.absolute{
+    position: absolute;
+    left: -20px;
+    top: -16px;
+}
+.pppl{
+    position: absolute;
+    left: 37%;
+    top: 39%;
+    width: 30px;
+}
+.top-servis{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 350px;
+}
+.name{
+    color: var(--orange);
+    font-size: 30px;
+    font-weight: 500;
+    position: relative;
+    letter-spacing: 3px;
+    top: -30px;
+}
+.grey{
+    color: var(--grey-link);
+}
+.top2{
+    margin-bottom: 35px;
+}
+.right-top-servise{
+    position: relative;
+    top: -20px;
+}
+.bottom-servise{
+    display: flex;
+    justify-content: space-around;
+}
+.h1-nomi{
+    color: var(--black2);
+    font-weight: 500;
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+.p-descrp{
+    color: var(--grey-link);
+    font-size: 15px;
+    width: 230px;
+}
+.buttoms{
+    background: var(--black2);
+    color: var(--wht);
+    padding: 8px 20px;
+    position: relative;
+    left: 130px;
+    top: 30px;
+}

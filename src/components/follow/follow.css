@@ -1,0 +1,16 @@
+.follow{
+    width: 100%;
+    height: 500px;
+    background-image: url(../../images/follow-img/follow-img.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.insta{
+    color: var(--grey-link);
+    font-style: italic;
+    font-weight: 500;
+    letter-spacing: 4px;
+    text-align: center;
+    position: relative;
+    top: 20px;
+}
